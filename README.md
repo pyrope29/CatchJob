@@ -17,4 +17,4 @@ CATCH JOB은 공공데이터 포털에서 제공하는 API를 활용하여 기�
 
 사용툴     : eclipse, sqlyog, sourcetree
 
-사용API    : 공공데이터포털사업장정보조회 API, google & facebook 소셜계정 연동 API, NAVER 뉴스 API, 사람인 채용정보 API
+사용API    : 공공데이터포털사업장정보조회 API, google & facebook 소셜계정 연동 API, NAVER 뉴스 API, 사람인 채용정보 API  
